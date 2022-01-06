@@ -33,7 +33,7 @@ PATH_WKHTMLTOPDF = r'C:\Program Files\wkhtmltopdf\bin\wkhtmltopdf.exe'
 
 ## Structure
 
-Endpoint |HTTP Method | CRUD Method 
+Endpoint |HTTP Method | API Method 
 -- | -- |-- 
 `register/` | POST | Create a user
 `login/` | POST | Login
