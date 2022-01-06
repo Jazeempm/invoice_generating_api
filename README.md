@@ -175,3 +175,5 @@ If the quantity given is greater than the available quantity it will response an
     "Error_list": "product 1.CATE RIGID BAG has only 10 items left"
 }
 ```
+
+###Test inputs and responses are stored in invoice_api.postman_collection.json
